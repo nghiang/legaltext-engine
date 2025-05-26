@@ -1,0 +1,11 @@
+langchain
+langgraph
+langchain-openai
+langchain-neo4j
+qdrant-client
+neo4j-graphrag
+langfuse
+python-dotenv
+openai
+fastapi
+uvicorn

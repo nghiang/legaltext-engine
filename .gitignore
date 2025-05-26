@@ -1,0 +1,6 @@
+/app/gateway/__pycache__/*
+/app/__pycache__/*
+/app/config/__pycache__/*
+/app/langchain_config/__pycache__/*
+/app/*.pyc
+.env
